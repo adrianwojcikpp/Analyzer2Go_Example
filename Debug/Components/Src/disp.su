@@ -1,0 +1,9 @@
+disp.c:40:13:disp_write_data	24	static
+disp.c:46:13:disp_disable_all_digits	24	static
+disp.c:52:13:disp_enable_digit	16	static
+disp.c:58:13:disp_enable_decimal_point	16	static
+disp.c:63:13:disp_disable_decimal_point	16	static
+disp.c:76:6:DISP_Init	16	static
+disp.c:93:6:DISP_EnableDecimalPoint	16	static
+disp.c:104:6:DISP_printDecUInt	32	static
+disp.c:126:6:DISP_ROUTINE	24	static
